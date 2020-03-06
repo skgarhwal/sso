@@ -1,0 +1,8 @@
+org/girnarsoft/sso/config/WebConfig.class
+org/girnarsoft/sso/security/FacebookSignInAdapter.class
+org/girnarsoft/sso/config/SecurityConfig.class
+com/girnarsoft/sso/SsoApplication.class
+org/girnarsoft/sso/persistence/model/User.class
+org/girnarsoft/sso/persistence/dao/UserRepository.class
+org/girnarsoft/sso/security/FacebookConnectionSignup.class
+org/girnarsoft/sso/security/MyUserDetailsService.class

@@ -1,0 +1,8 @@
+/home/sunil/work/sso/src/main/java/org/girnarsoft/sso/persistence/dao/UserRepository.java
+/home/sunil/work/sso/src/main/java/org/girnarsoft/sso/security/FacebookSignInAdapter.java
+/home/sunil/work/sso/src/main/java/org/girnarsoft/sso/persistence/model/User.java
+/home/sunil/work/sso/src/main/java/org/girnarsoft/sso/config/WebConfig.java
+/home/sunil/work/sso/src/main/java/org/girnarsoft/sso/security/FacebookConnectionSignup.java
+/home/sunil/work/sso/src/main/java/com/girnarsoft/sso/SsoApplication.java
+/home/sunil/work/sso/src/main/java/org/girnarsoft/sso/config/SecurityConfig.java
+/home/sunil/work/sso/src/main/java/org/girnarsoft/sso/security/MyUserDetailsService.java
